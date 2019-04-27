@@ -1,0 +1,10 @@
+{
+    "project": {
+        "full_name": "Sonomaton",
+        "slug": "sonomaton",
+        "short_description": "Sur le principe d'un photomaton, entrez, fermez la porte, chaussez le casque audio, appuyez sur le bouton rouge, ça enregistre !",
+        "lang": "fr",
+        "license": "MIT License",
+        "about": "Le sonomaton a été créé par l'atelier partagé de Betton."
+    }
+}
