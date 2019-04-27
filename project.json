@@ -5,6 +5,23 @@
         "short_description": "Sur le principe d'un photomaton, entrez, fermez la porte, chaussez le casque audio, appuyez sur le bouton rouge, ça enregistre !",
         "lang": "fr",
         "license": "MIT License",
-        "about": "Le sonomaton a été créé par l'atelier partagé de Betton."
+        "about": "Le sonomaton a été créé par l'atelier partagé de Betton.",
+        "steps": [
+            {
+                "title": "début",
+                "duration": 300,
+                "content": "## je peux écrire du mardown youhou",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "Arduino-UNO-Rev3",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    }
+                ]
+            }
+        ]
     }
 }
